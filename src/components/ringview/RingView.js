@@ -1,5 +1,9 @@
 import React from 'react';
 import './RingView.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faList } from '@fortawesome/free-solid-svg-icons'
+
+
 
 const RingView = (props) => {
     const { name, img, brand, price } = props.ring
@@ -12,7 +16,11 @@ const RingView = (props) => {
                     <h4>Price: {price}$</h4>
                     <h5>Brand Name: {brand}</h5>
                 </div>
-                <button onClick={() => props.clicked(props.ring)} className='selection-btn'>Add to Selection</button>
+                <button onClick={() => props.clicked(props.ring)} className='selection-btn'>Add to Selection
+                    <FontAwesomeIcon icon={faList}> </FontAwesomeIcon>
+                </button>
+
+
             </div>
         </div>
     );

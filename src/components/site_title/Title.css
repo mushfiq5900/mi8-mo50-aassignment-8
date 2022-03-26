@@ -1,6 +1,7 @@
 .site-title{
     height: 120px;
     background-color: #87db00;
+    width: 100%;
 }
 .site-title h1{
     color: white;
