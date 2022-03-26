@@ -24,7 +24,7 @@ const Allrings = () => {
     }
     const [selectResult, setSelectResult] = useState([]);
     const searchRing = () => {
-        const randomRing = rings[Math.floor(Math.random() * rings.length)];
+        const randomRing = selection[Math.floor(Math.random() * selection.length)];
         setSelectResult(randomRing);
     }
 
