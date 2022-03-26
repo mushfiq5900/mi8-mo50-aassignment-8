@@ -1,0 +1,65 @@
+[
+  {
+    "id": "452136",
+    "name": "Diamond Ring",
+    "brand": "Diamond World",
+    "price": 210,
+    "img": "https://image.brilliantearth.com/media/diamond_ring_vto/1S/BE1PD25R25_white_Round_top_75_carat.png"
+  },
+  {
+    "id": "875412",
+    "name": "Gold Ring",
+    "brand": "Amin Jewelary",
+    "price": 150,
+    "img": "https://www.pearlkraft.in/wp-content/uploads/2020/02/Lucky-Gold-Ring.jpg"
+  },
+  {
+    "id": "986515",
+    "name": "Silver Ring",
+    "brand": "Silver Ocean",
+    "price": 80,
+    "img": "https://cdn.webshopapp.com/shops/281656/files/364988332/1280x1280x2/parte-di-me-cento-luci-rosia-925-sterling-silver-r.jpg"
+  },
+  {
+    "id": "336521",
+    "name": "Widding Ring",
+    "brand": "Diamond World",
+    "price": 650,
+    "img": "https://my-test-11.slatic.net/p/4e250bf8d373c48f4991cd5ddb41a503.jpg"
+  },
+  {
+    "id": "998856",
+    "name": "Engagement Ring",
+    "brand": "Weeding Hub",
+    "price": 260,
+    "img": "https://cf.shopee.com.my/file/10f1f1b98e833a190e36ff371a01d695"
+  },
+  {
+    "id": "888754",
+    "name": "Regular Ring",
+    "brand": "Patwoary Ornaments",
+    "price": 280,
+    "img": "https://media.istockphoto.com/photos/wedding-rings-picture-id176830145?k=20&m=176830145&s=612x612&w=0&h=Y5_wIFg5wAiT8pWyXXAqDf4AOwralEeO8CQfofuZ7AU="
+  },
+  {
+    "id": "789632",
+    "name": "Valentine Ring",
+    "brand": "Valen Hub",
+    "price": 410,
+    "img": "https://5.imimg.com/data5/KW/IO/EZ/SELLER-30544557/jr00394-ygp900-1-lar-500x500.jpg"
+  },
+  {
+    "id": "784512",
+    "name": "Breakup Ring",
+    "brand": "Arna's World",
+    "price": 20,
+    "img": "https://s3.amazonaws.com/zweb-s3.uploads/carp/2011/08/iStock_000015070547XSmall.jpg"
+  },
+  {
+    "id": "986532",
+    "name": "Frindship Ring",
+    "brand": "Amin Jewelary",
+    "price": 100,
+    "img": "https://static-01.daraz.com.bd/p/3efc179d7266f30e69bad5f5d2d13a42.jpg"
+  }
+]
