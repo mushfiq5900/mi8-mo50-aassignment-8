@@ -1,5 +1,5 @@
 # Random Ring Selector
 
-### Deployment
+### Live Site Link
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Click here for live preview: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
