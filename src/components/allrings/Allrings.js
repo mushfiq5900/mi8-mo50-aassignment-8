@@ -18,6 +18,16 @@ const Allrings = () => {
         setSelection(newSelection)
     }
 
+    const clearList = () => {
+        const newList = [];
+        setSelection(newList);
+    }
+    const [selectResult, setSelectResult] = useState([]);
+    const searchRing = () => {
+        const randomRing = rings[Math.floor(Math.random() * rings.length)];
+        setSelectResult(randomRing);
+    }
+
     return (
         <div className='allrings-container'>
             <div className="ring-container">               {
@@ -25,7 +35,7 @@ const Allrings = () => {
             }
             </div>
             <div className="select-panel-container">
-                <Selection selection={selection}></Selection>
+                <Selection selection={selection} clearList={clearList} searchRing={searchRing} selectResult={selectResult}></Selection>
             </div>
         </div>
     );

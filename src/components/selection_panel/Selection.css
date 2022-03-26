@@ -3,3 +3,22 @@
     position: sticky;
     top: 0;
 }
+.cart-info img{
+    width:50px;
+    height: 50px;
+    padding-left: 10px;
+}
+.selected-ring img{
+    width:80px;
+    height: 80px;
+}
+.gen-btn{
+    padding:20px;
+    background-color: #87db00;
+    border: 0;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.gen-btn:hover{
+    background-color: grey;
+}

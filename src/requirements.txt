@@ -1,0 +1,21 @@
+Requirements:
+
+#1. Random Ring Selector
+#2. Data: id, name, price,photo (9ta)
+#3. Add to cart a icon use korte hbe.
+#4. Mobile er jonno responsive korte hobe. 1 Coulmn a dekhate hobe
+#5. Add to cart a click korle right panel a name show korbe
+6. 4ta ring select korte hobe. Then "select the lucky ring" a click
+   korle random akta select hoye new kothao dekhabe.
+
+
+# Bonus:
+
+#1. Destructuring use korte hbe
+#2. 6ta commit
+#3. Readme file edit kore project er name r live link dite hobe
+4. Select Again a dile abr clear hoye jabe.
+#5. Akdm bottom a akta component banaye 3ta ans likhte hobe.
+	- How react works?
+	- Props vs state.
+	- How use state works. 

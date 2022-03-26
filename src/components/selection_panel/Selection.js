@@ -1,18 +1,27 @@
 import './Selection.css'
 
 const Selection = (props) => {
-    const { selection } = props
-    const names = []
-    for (const ring of selection) {
-        names.push(ring.name + " ")
-    }
+    const { selection, selectResult } = props
     return (
         <div className='ring-names'>
             <h4>Selected Items:</h4>
-            <h4>{names}</h4>
-            <button className=''>Select The Ring</button>
-            <button >Add to Selection</button>
+            {
+                selection.map(rings =>
+                    <div className='cart-info' key={rings.id}>
+                        <p>{rings.name}</p>
+                        <img src={rings.img} alt="" />
+                    </div>
+                )
+            }
+            <button onClick={props.searchRing} className='gen-btn'>Select The Ring</button>
+            <button onClick={props.clearList} className='gen-btn' >Clear List</button>
+            <div className='selected-ring'>
+                <h4>Randomely Selected Ring Is:</h4>
+                <img src={selectResult.img} alt="" />
+                <p>Name: {selectResult.name}</p>
+            </div>
         </div>
+
     );
 };
 
