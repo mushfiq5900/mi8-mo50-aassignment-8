@@ -2,4 +2,4 @@
 
 ### Live Site Link
 
-Click here for live preview: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Click here for live preview: [https://verdant-strudel-85bcbb.netlify.app/](https://verdant-strudel-85bcbb.netlify.app/)
